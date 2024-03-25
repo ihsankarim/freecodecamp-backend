@@ -1,5 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "ihsankarim",
+  "description": "A project that does something awesome",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -11,13 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
-  "keywords": [],
-  "author": "ihsankarim",
-  "license": "ISC"
+  "version": "1.2.0",
+  "keywords": ["descriptive", "relative", "words", "freecodecamp"],
+  "license": "MIT"
 }
